@@ -11,6 +11,6 @@ Projeyi clonelamak için
 
 Projeyi cloneladıktan sonra VS Code ile açınız.
 
-```cd kodluyoruzilkrepo
-code . ```
+``` cd kodluyoruzilkrepo
+code .  ```
 
